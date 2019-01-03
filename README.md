@@ -4,7 +4,7 @@
 
  [Decreased Agricultural Productivity and Increased Food Insecurity](http://advances.sciencemag.org/content/2/8/e1501452)
 
-[Flooding from ice losses, water expansion, storm surges, higher rainfall](https://www.nature.com/articles/s41598017-17966-y)
+[Flooding from ice losses, water expansion, storm surges, higher rainfall](https://www.nature.com/articles/s41598-017-17966-y)
 
 [Decades of satellite monitoring reveal Antarctic ice loss](https://www.sciencedaily.com/releases/2018/06/180613163031.htm)
 
