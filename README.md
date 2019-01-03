@@ -17,6 +17,6 @@ This project seeks to tap into the creativity and passion that we as a species w
 
 [Malcolm Buckle](http://malcolmbuckle.com/index.php/the-da-vinci-project/)
 
-# Want get involved?
+# Want to get involved?
 
 [Contact us](mailto:da_vinci_project@icloud.com)
