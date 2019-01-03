@@ -1,4 +1,4 @@
-## Welcome to the Dav-Vinci-Project
+## Welcome to the Da-Vinci-Project
 
  As we move further into the 21st century, the world faces many new and unexpected sustainability challenges. Some of the largest and most daunting of these are associated with the rapid and unrelenting increase in greenhouse gas levels that are accelerating climate change globally.
 
