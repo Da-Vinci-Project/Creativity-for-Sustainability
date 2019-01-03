@@ -19,4 +19,4 @@ This project seeks to tap into the creativity and passion that we as a species w
 
 # Want get involved?
 
-[Contact us](mailto:"da_vinci_project@icloud.com")
+[Contact us](mailto:da_vinci_project@icloud.com)
