@@ -2,7 +2,7 @@
 
  As we move further into the 21st century, the world faces many new and unexpected sustainability challenges. Some of the largest and most daunting of these are associated with the rapid and unrelenting increase in greenhouse gas levels that are accelerating climate change globally.
  
- The following 4 links all draw from research and findings from the scientific community. 
+ The following 4 links are taken from research and findings from the scientific community. 
 
  [Decreased Agricultural Productivity and Increased Food Insecurity](http://advances.sciencemag.org/content/2/8/e1501452)
 
